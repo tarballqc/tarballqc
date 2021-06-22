@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tarballqc (Pascal Marsolais), Customer Support Lead at OpenSea!
+- 👋 Hi, I’m @tarballqc (Pascal Marsolais), Customer Support Lead at [OpenSea](https://opensea.io)!
 - 👀 I’m interested in Non-Fungible Tokens
 - 🌱 You can look at my NFTs collection here : https://opensea.io/tarballqc
 - 📫 You can reach me on Twitter: **@PascalMarsolais** or Discord: **Pascal | OpenSea#0001**
