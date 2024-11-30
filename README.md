@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @tarballqc (Pascal), from Trust & Safety at [OpenSea](https://opensea.io)!
-- 📫 You can reach me on **Discord**: [@www.opensea.io](https://discord.com/users/996072026810880192)
